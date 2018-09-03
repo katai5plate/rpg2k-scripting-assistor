@@ -1,0 +1,1 @@
+# rpg2k-scripting-assistor
